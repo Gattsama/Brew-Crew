@@ -19,7 +19,6 @@ class _RegisterState extends State<Register> {
   String email = '';
   String password = '';
   String error = '';
-
   bool loading = false;
 
   @override

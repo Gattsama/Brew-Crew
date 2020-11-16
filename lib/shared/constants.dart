@@ -8,3 +8,5 @@ var inputTextDecoration = InputDecoration(
   focusedBorder: OutlineInputBorder(
       borderSide: BorderSide(color: Colors.pink, width: 2.0)),
 );
+
+var jj = 'kk';
